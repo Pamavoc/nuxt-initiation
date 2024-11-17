@@ -17,3 +17,8 @@ Start the development server on `http://localhost:3000`:
 # bun
 bun run dev
 ```
+
+
+## Extensions
+
+Install `https://nuxtr.com/`
