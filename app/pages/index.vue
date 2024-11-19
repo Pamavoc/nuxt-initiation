@@ -1,5 +1,5 @@
 <template>
-    <div>
-        <UiWelcome />
+    <div class="container">
+        <UiBackgroundDisplay />
     </div>
 </template>
